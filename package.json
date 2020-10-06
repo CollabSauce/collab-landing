@@ -1,0 +1,9 @@
+{
+  "name": "collab-landing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "deploy-production": "netlify deploy --prod --site f06f9be4-72e5-4ef6-a958-dd80f797d470",
+    "deploy-staging": "netlify deploy --prod --site fe7dc2a6-c4cb-4203-bc09-8c5fe67e007a"
+  }
+}
