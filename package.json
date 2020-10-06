@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "deploy-production": "netlify deploy --prod --site cfcf29ff-da6f-4639-b0ad-3d44a85e41e7",
-    "deploy-staging": "netlify deploy --prod --site b989e653-787b-4447-8538-62d0f2a892a6"
+    "deploy-staging": "netlify deploy --prod --site b989e653-787b-4447-8538-62d0f2a892a6",
+    "deploy-demo": "netlify deploy --prod --site ab1662cc-379a-4e25-aba1-f8dd8679cfd2"
   }
 }
