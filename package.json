@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "deploy-production": "netlify deploy --prod --site ???",
+    "deploy-production": "netlify deploy --prod --site cfcf29ff-da6f-4639-b0ad-3d44a85e41e7",
     "deploy-staging": "netlify deploy --prod --site b989e653-787b-4447-8538-62d0f2a892a6"
   }
 }
